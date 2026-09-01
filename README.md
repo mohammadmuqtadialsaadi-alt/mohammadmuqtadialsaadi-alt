@@ -117,6 +117,23 @@ This section will grow as I complete more full-stack applications.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadmuqtadialsaadi-alt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmuqtadialsaadi-alt&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohammadmuqtadialsaadi-alt&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🎯 My Goals
 
 ```text
