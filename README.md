@@ -79,9 +79,9 @@ I enjoy solving coding problems, building real-world projects, debugging code, a
 
 ## 📊 GitHub Stats
 
-|                                                           GitHub Stats                                                          |                                                             Most Used Languages                                                            |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadmuqtadialsaadi-alt\&show_icons=true\&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmuqtadialsaadi-alt\&layout=compact\&theme=default) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadmuqtadialsaadi-alt&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmuqtadialsaadi-alt&layout=compact&theme=default)
 
 ---
 
