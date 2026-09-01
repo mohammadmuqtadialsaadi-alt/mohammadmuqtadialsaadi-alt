@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Gemini_Generated_Image_oczjzeoczjzeoczj.jpg" alt="Mohammad Muqtadi Al Saadi Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Mohammad Muqtadi Al Saadi
 
 ### 💻 Aspiring Full-Stack Web Developer | 🌱 Currently Learning
