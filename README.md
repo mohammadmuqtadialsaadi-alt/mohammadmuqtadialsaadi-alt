@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-of-me.jpg" alt="Mohammad Muqtadi Al Saadi Banner" width="100%" />
+  <img src="./banner-2.jpg" alt="Mohammad Muqtadi Al Saadi Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Mohammad Muqtadi Al Saadi
