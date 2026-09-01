@@ -120,13 +120,14 @@ This section will grow as I complete more full-stack applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohammadmuqtadialsaadi-alt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+  <img
+    src="./profile/stats.svg"
     alt="Mohammad's GitHub Stats"
     height="180"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmuqtadialsaadi-alt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+
+  <img
+    src="./profile/top-langs.svg"
     alt="Top Languages"
     height="180"
   />
