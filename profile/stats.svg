@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohammad Muqtadi Al Saadi&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 34, Total Commits  (last year) : 27, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 27, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 208.41294348897492;
+        stroke-dashoffset: 203.5797240219137;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >34</text>
+      >41</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
