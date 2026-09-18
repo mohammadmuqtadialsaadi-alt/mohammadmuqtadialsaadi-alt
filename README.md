@@ -140,10 +140,14 @@ This section will grow as I complete more full-stack applications.
 
 ---
 
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadmuqtadialsaadi-alt&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=mohammadmuqtadialsaadi-alt&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
